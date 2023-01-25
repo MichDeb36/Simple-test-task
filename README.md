@@ -4,5 +4,5 @@ Pressing the spacebar stops movement for 5s and shows the path information for e
 The color of the sphere changes with distance from the center of the spiral. <br />
 The sphere that reaches the center of the spiral shrinks and then explodes. <br />
 Destroyed spheres are removed from the scene. <br />
-One "Input System" extension version 1.4.4 has been installed.
-Unity version: 2020.3.26.
+One "Input System" extension version 1.4.4 has been installed. <br />
+Unity version: 2020.3.26. <br />
